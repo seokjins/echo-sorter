@@ -3,7 +3,7 @@ window.echo_list = [
     "Nothing Without Your Love",
     "Loser",
     "Rope it",
-    "A Journey With The Clouds",
+    "With The Clouds",
     "Background",
-    "To Today's Me"
+    "To Me, Today"
 ];
