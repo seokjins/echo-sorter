@@ -85,6 +85,5 @@ window.echo_list = [
     "So High School",
     "Down Bad",
     "Mary's Song (Oh My My My)",
-    "ME! (feat. Brendon Urie of Panic! At The Disco)"]
-
+    "ME! (feat. Brendon Urie of Panic! At The Disco)"
 ];
